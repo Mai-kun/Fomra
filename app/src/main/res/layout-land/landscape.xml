@@ -160,7 +160,7 @@
 
             <RadioButton
                 android:id="@+id/valentire"
-                android:layout_width="174dp"
+                android:layout_width="match_parent"
                 android:layout_height="49dp"
                 android:text="valentire" />
 
